@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Aishani (ae-SHAH-nee) 🌺
+`< pronouns="she/her" school="UC Berkeley" current-company="ServiceNow" favorite-emoji="🤠" />` <br>
+here is my [resume](https://github.com/silpillasil/professional/blob/master/AishaniSilResume.pdf)!
 
 <!--
 **silpillasil/silpillasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
