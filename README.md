@@ -1,5 +1,5 @@
 ### Hi, I'm Aishani (ae-SHAH-nee) 🌺
-`< pronouns="she/her" school="UC Berkeley" current-company="ServiceNow" favorite-emoji="🤠" />` <br><br>
+`< pronouns="she/her" school="UC Berkeley" >` <br><br>
 here is my [resume](https://github.com/silpillasil/professional/blob/master/AishaniSilResume.pdf)!
 
 <!--
